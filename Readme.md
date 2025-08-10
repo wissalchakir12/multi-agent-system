@@ -21,3 +21,14 @@ Ce projet implémente un système multi-agent utilisant la librairie [Agno](http
 
 ---
 
+## Images
+
+### Image 1 : Request
+
+![Request](./image1.png)
+
+---
+
+### Image 2 : Response
+
+![Response](./image2.png)
